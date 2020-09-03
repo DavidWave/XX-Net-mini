@@ -43,6 +43,8 @@ Windows用户
  
 如果不出现 Network is ok, you can start to surf the internet! 的提示,  说明有Ipv6网络有问题
 
+访问https网站要导入证书, 将XX-Net-mini/data/gae_proxy/CA.crt导入到系统后, 再将XX-Net-mini/data/gae_proxy/CA.crt导入到浏览器
+
 Mini版XX-Net, 在Linux和Windows环境下正常运行(其他环境未作测试)
 
 正常运行截图
